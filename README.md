@@ -1,16 +1,10 @@
 Hi 👋 My name is Aleksander Pleym Sandnes
 =========================================
 
-Board Director and Developer at Nettking Solutions AS
------------------------------------------------------
-
-I am a software developer and a project manager who thrives in both collaborative and independent environments. Passionate about learning new skills, while I utilize and develop my existing abilities in creativity and problem solving.
+I am a software developer who thrives in both collaborative and independent environments. Passionate about learning new skills, while I utilize and develop my existing abilities in creativity and problem solving.
 
 * 🌍  I'm based in Norway
-* ✉️  You can contact me at [sandnes@nettking.no](mailto:sandnes@nettking.no)
-* 🚀  I'm currently working on [Rorobot](http://rorobot.io)
-* 🧠  I'm learning how to set up a web server to communicate with the Binance API
-* 🤝  I'm open to collaborating on any project you have in mind. Contact Nettking Solutions AS for business enquiry.
+* 🧠  I'm learning .Net
 
 ### Skills
 
