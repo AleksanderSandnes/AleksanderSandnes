@@ -1,46 +1,27 @@
-Hi 👋 My name is Aleksander Pleym Sandnes
-=========================================
+<a href="https://aleksandersandnes.github.io/">
+  <img src="https://readme-typing-svg.demolab.com/?font=Space+Grotesk&weight=600&size=30&duration=3200&pause=900&color=22D3EE&vCenter=true&width=640&height=50&lines=Hi+%F0%9F%91%8B+I'm+Aleksander+Pleym+Sandnes;Solution+Developer+%40+Eye-Share+AS;Full-stack+%C2%B7+Mobile+%C2%B7+Automation" alt="Hi, I'm Aleksander Pleym Sandnes. Solution Developer at Eye-Share AS." />
+</a>
 
-I am a software developer who thrives in both collaborative and independent environments. Passionate about learning new skills, while I utilize and develop my existing abilities in creativity and problem solving.
+I'm a developer from Norway who builds things end to end. Since **September 2023** I've worked as a **Solution Developer at [Eye-Share AS](https://www.eye-share.com)**, part of Tieto. Outside work, 2026 has been a big year for side projects: web, native mobile and small tools that remove tedious work.
 
-* 🌍  I'm based in Norway
-* 🧠  I'm learning .Net
+- 💼 Solution Developer @ Eye-Share AS (since Sep 2023)
+- 🌍 Based in Norway
+- 🚀 Building: Eye-share Time Export, HMI, The Family App, Catalyst, Quire and Nordea Bulk Export
+- 🌐 Portfolio: **[aleksandersandnes.github.io](https://aleksandersandnes.github.io/)**
 
-### Skills
+### 🧰 Toolbox
 
-<p align="left">
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" height="36" alt="Webpack" /></a>
-<a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/babel-colored.svg" width="36" height="36" alt="Babel" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-<a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a>
-<a href="https://ipfs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ipfs-colored.svg" width="36" height="36" alt="IPFS" /></a>
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,kotlin,swift,cs,java,react,nextjs,tailwind,dotnet,spring,supabase,postgres,mongodb,sqlite,docker,vercel,githubactions,linux&perline=10" alt="TypeScript, JavaScript, Kotlin, Swift, C#, Java, React, Next.js, Tailwind, .NET, Spring, Supabase, PostgreSQL, MongoDB, SQLite, Docker, Vercel, GitHub Actions, Linux" />
 </p>
 
+### 🔗 Find me
 
-### Socials
+[![Portfolio](https://img.shields.io/badge/Portfolio-aleksandersandnes.github.io-22d3ee?style=for-the-badge&logo=githubpages&logoColor=white)](https://aleksandersandnes.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aleksander%20Sandnes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aleksander-sandnes/)
 
-<p align="left"> <a href="https://www.facebook.com/aleksander.sandnes" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/AleksanderSandnes" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/aleksander-sandnes/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+### 📈 Activity
 
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/AleksanderSandnes"><img src="https://github-readme-stats.vercel.app/api?username=AleksanderSandnes&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="AleksanderSandnes's GitHub stats" /></a>
-
-<a href="http://www.github.com/AleksanderSandnes"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AleksanderSandnes&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/AleksanderSandnes"><img src="https://activity-graph.herokuapp.com/graph?username=AleksanderSandnes&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/AleksanderSandnes" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AleksanderSandnes&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/AleksanderSandnes">
+  <img src="https://streak-stats.demolab.com/?user=AleksanderSandnes&theme=tokyonight&hide_border=true&background=07080D&ring=A78BFA&fire=F472B6&currStreakLabel=22D3EE" alt="GitHub streak stats for AleksanderSandnes" />
+</a>
